@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">StockInfo</string>
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+    <string name="description">
+        We take privacy seriously. Please read our policy below and let us know if you have any questions or feedback.
+        This Privacy Policy concerns the apps developed by The Learning Apps.
+
+        Our apps do not collect any identifiable information from kids.
+        Device data is collected only to provide a service or function that is directly relevant to the use of our app.
+        If you believe we have inadvertently collected such information, please contact us,
+        so we can promptly remove the information.
+
+        we do not collect any identifiable information from our users. The third-party service providers
+        collect unidentifiable information directly from Users of the applications in the form of the
+        actions they take and the activities they complete while using the application.
+        We primarily use this information to improve our applications for providing a better experience to our users. </string>
+    <string name="bin">Before we address the above question, let us understand what would happen if one chooses not to invest. Let us assume you earn Rs.50,000/- per month
+        and you spend Rs.30,000/-towards your cost of living which includes housing, food, transport, shopping, medical, etc. The balance of Rs.20,000/- is your monthly surplus.
+        For the sake of simplicity, let us just ignore the effect of personal income tax in this discussion.
+    </string>
+    <string name="bin1">To drive the point across, let us make a few simple assumptions.</string>
+    <string name="bin2"> 1.The employer is kind enough to give you a 10% salary hike every year.</string>
+    <string name="bin3"> 2.The cost of living is likely to go up by 8% year on year.</string>
+    <string name="bin4"> 3.You are 30 years old and plan to retire at 50. This leaves you with 20 more years to earn.</string>
+    <string name="bin5"> 4.You don’t intend to work after you retire.</string>
+    <string name="bin6"> 5.Your expenses are fixed and don’t foresee any other expense.</string>
+    <string name="bin7"> 6. The balance cash of Rs.20,000/- per month is retained in the form of hard cash.</string>
+    <string name="bin8">Going by these assumptions, here is how the cash balance will look like in 20 years.</string>
+
+    <string name="bin9">If one were to analyze these numbers, you would soon realize this is a scary situation to be in. Few things are quite startling from the above calculations:</string>
+    <string name="bin10">1.After 20 years of hard work you have accumulated Rs.1.7Crs.</string>
+    <string name="bin11">2.Since your expenses are fixed, your lifestyle has not changed over the years, you probably even suppressed your lifelong aspirations – better home, a better car, vacations, etc.></string>
+    <string name="bin12">3.After you retire, assuming the expenses will continue to grow at 8%, Rs.1.7Crs is good enough to sail you through roughly about 8 years of post-retirement life. 8th year onwards you will be in a very tight spot with literally no savings left to back you up.</string>
+    <string name="bin13">What would you do after you run out of all the money in 8 years’ time? How do you fund your life? Is there a way to ensure that you collect a larger sum at the end of 20 years?</string>
+    <string name="bin14">Let’s consider another scenario where instead of keeping the cash idle, you choose to invest the cash in an investment option that grows at let’s say 12% per annum. For example – in the first year you retained Rs.240,000/- which when invested at 12% per annum for 20 years yields Rs.2,067,063/- at the end of 20th year.</string>
+
+    <string name="bin15">With the decision to invest the surplus cash, your cash balance has increased significantly. The cash balance has grown to Rs.4.26Crs from Rs.1.7Crs. This is a staggering 2.4x times the regular amount. This translates to you being in a much better situation to deal with your post retirement life.
+Now, going back to the initial question of why invest? There are a few compelling reasons for one to invest.</string>
+    <string name="bin16">1.Fight Inflation – By investing one can deal better with the inevitable – growing cost of living – generally referred to as Inflation</string>
+    <string name="bin17">2.Create Wealth – By investing one can aim to have a better corpus by the end of the defined time period. In the above example, the time period was up to retirement but it can be anything – children’s education, marriage, house purchase, retirement holidays, etc</string>
+    <string name="bin18">3.To meet life’s financial aspiration</string>
+    <string name="bin19">Having figured out the reasons to invest, the next obvious question would be – Where would one invest, and what are the returns one could expect by investing.</string>
+    <string name="bin20">When it comes to investing one has to choose an asset class that suits the individual’s risk and return temperament.</string>
+    <string name="bin21">An asset class is a category of investment with particular risk and return characteristics. The following are some of the popular asset classes</string>
+    <string name="bin22">1.Fixed income instruments</string>
+    <string name="bin23">2.Equity</string>
+    <string name="bin24">3.Real estate</string>
+    <string name="bin25">4.Commodities (precious metals)</string>
+
+    <string name="bin26">These are investable instruments with very limited risk to the principle and the return is paid as an interest to the investor based on the particular fixed-income instrument. The interest paid, could be quarterly, semi-annual or annual intervals. At the end of the term of deposit, (also known as maturity period) the capital is returned to the investor.</string>
+    <string name="bin27">Typical fixed income investment includes:</string>
+    <string name="bin28">1.Fixed deposits offered by banks</string>
+    <string name="bin29">2.Bonds issued by the Government of India</string>
+    <string name="bin30">3.Bonds issued by Government related agencies such as HUDCO, NHAI, etc</string>
+    <string name="bin31">4.Bonds issued by corporate’s</string>
+
+    <string name="bin32">Investment in Equities involves buying shares of publicly listed companies. The shares are traded both on the Bombay Stock Exchange (BSE), and the National Stock Exchange (NSE).</string>
+    <string name="bin33">When an investor invests in equity, unlike a fixed income instrument there is no capital guarantee. However, as a trade-off, the returns from equity investment can be extremely attractive. Indian Equities have generated returns close to 14% – 15% CAGR (compound annual growth rate) over the past 15 years.</string>
+    <string name="bin34"> Investing in some of the best and well run Indian companies has yielded over 20% CAGR in the long-term. Identifying such investment opportunities requires skill, hard work, and patience.</string>
+    <string name="bin35">Taxation on Equity investments held for more than 365 days is taxed at 10%, if the gains are more than Rs 1 lakh starting from 1st April 2018(previously such investments were tax-free). This is comparatively a lower rate of tax than the other asset classes</string>
+
+    <string name="bin36">Real Estate Investment involves transacting (buying and selling) commercial and non-commercial land. Typical examples would include transacting in sites, apartments and commercial buildings. There are two sources of income from real estate investments namely – Rental income, and Capital appreciation of the investment amount.</string>
+    <string name="bin37">The transaction procedure can be quite complex involving legal verification of documents. The cash outlay in real estate investment is usually quite large. There is no official metric to measure the returns generated by real estate, hence it would be hard to comment on this.</string>
+
+    <string name="bin38">Investments in gold and silver are considered one of the most popular investment avenues. Gold and silver over a long-term period have appreciated in value. Investments in these metals have yielded a CAGR return of approximately 8% over the last 20 years. There are several ways to invest in gold and silver. One can choose to invest in the form of jewelry or Exchange Traded Funds (ETF).</string>
+    <string name="bin39">Going back to our initial example of investing the surplus cash it would be interesting to see how much one would have saved by the end of 20 years considering he has the option of investing in any one – fixed income, equity or bullion.</string>
+    <string name="bin40">1.By investing in fixed income at an average rate of 9% per annum, the corpus would have grown to Rs.3.3Crs</string>
+    <string name="bin41">2.Investing in equities at an average rate of 15% per annum, the corpus would have grown to Rs.5.4Crs</string>
+    <string name="bin42">3.Investing in bullion at an average rate of 8% per annum, the corpus would have grown to Rs.3.09Crs</string>
+
+    <string name="bin43">Clearly, equities tend to give you the best returns especially when you have a multi-year investment perspective.</string>
+
+    <string name="bin44">Investing is a great option, but before you venture into investments it is good to be aware of the following…</string>
+    <string name="bin45">1.Risk and Return go hand in hand. Higher the risk, higher the return. Lower the risk, lower is the return.</string>
+    <string name="bin46">2.Investment in fixed income is a good option if you want to protect your principal amount. It is relatively less risky. However, you have the risk of losing money when you adjust the return for inflation. Example – A fixed deposit which gives you 9% when the inflation is 10% means you are losing a net 1% per annum. Fixed-income investment is best suited for ultra risk-averse investors</string>
+    <string name="bin47">3.Investment in Equities is a great option. It is known to beat inflation over a long period of time. Historically equity investment has generated returns close to 14-15%. However, equity investments can be risky</string>
+    <string name="bin48">4.Real Estate investment requires a large outlay of cash and cannot be done with smaller amounts. Liquidity is another issue with real estate investment – you cannot buy or sell whenever you want. You always have to wait for the right time and the right buyer or seller to transact with you.</string>
+    <string name="bin49">5.Gold and silver are known to be a relatively safer but the historical return on such investment has not been very encouraging.</string>
+
+
+
+    <string name="r">Investing in equities is an important investment that we make in order to generate inflation-beating returns. This was the conclusion we drew from the previous chapter. Having said that, how do we go about investing in equities? Clearly, before we dwell further into this topic, it is extremely important to understand the ecosystem in which equities operate.</string>
+    <string name="r1">Just like the way we go to the neighborhood Kirana store or a supermarket to shop for our daily needs, similarly, we go to the stock market to shop (read as transact) for equity investments. The stock market is where everyone who wants to transact in shares goes to. Transact in simple terms means buying and selling. For all practical purposes, you can’t buy/sell shares of a public company like Infosys without transacting through the stock markets.</string>
+    <string name="r2">The main purpose of the stock market is to help you facilitate your transactions. So if you are a buyer of a share, the stock market helps you meet the seller and vice versa.</string>
+    <string name="r3">rNow unlike a supermarket, the stock market does not exist in a brick and mortar form. It exists in electronic form. You access the market electronically from your computer and go about conducting your transactions (buying and selling of shares).</string>
+    <string name="r4">Also, it is important to note that you can access the stock market via a registered intermediary called the stockbroker. We will discuss more the stockbrokers at a later point.</string>
+    <string name="r5">There are two main stock exchanges in India that make up the stock markets. They are the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE). Besides these two exchanges, there are a bunch of other regional stock exchanges like Bangalore Stock Exchange, Madras Stock Exchange that are more or less getting phased out and don’t really play any meaningful role anymore.</string>
+    <string name="r6">The stock market attracts individuals and corporations from diverse backgrounds. Anyone who transacts in the stock market is called a market participant. The market participant can be classified into various categories. Some of the categories of market participants are as follows:</string>
+    <string name="r7">1.Domestic Retail Participants – These are people like you and me transacting in markets</string>
+    <string name="r8">2.NRI’s and OCI – These are people of Indian origin but based outside India</string>
+    <string name="r9">3.Domestic Institutions – These are large corporate entities based in India. A classic example would be the LIC of India.</string>
+    <string name="r10">4.Domestic Asset Management Companies (AMC) – Typical participants in this category would be the mutual fund companies such as SBI Mutual Fund, DSP Black Rock, Fidelity Investments, HDFC AMC, etc.</string>
+    <string name="r11">5.Foreign Institutional Investors – Non-Indian corporate entities. These could be foreign asset management companies, hedge funds, and other investors</string>
+    <string name="r12">Now, irrespective of the category of market participant the agenda for everyone is the same – to make profitable transactions. More bluntly put – to make money.</string>
+    <string name="r13">When money is involved, human emotions in the form of greed and fear run high. One can easily fall prey to these emotions and get involved in unfair practices. India has its fair share of such twisted practices, thanks to the operations of Harshad Mehta and the like.</string>
+    <string name="r14">Given this, the stock markets need someone who can set the rules of the game (commonly referred to as regulation and compliance) and ensure that people adhere to these regulations and compliance thereby making the markets a level playing field for everyone.</string>
+    <string name="r15">In India the stock market regulator is called The Securities and Exchange Board of India often referred to as SEBI. The objective of SEBI is to promote the development of stock exchanges, protect the interest of retail investors, regulate the activities of market participants and financial intermediaries. In general, SEBI ensures</string>
+    <string name="r16">1.The stock exchanges (BSE and NSE) conducts its business fairly</string>
+    <string name="r17">2.Stockbrokers and sub-brokers conduct their business fairly</string>
+    <string name="r18">3.Participants don’t get involved in unfair practices</string>
+    <string name="r19">4.Corporate’s don’t use the markets to unduly benefit themselves (Example – Satyam Computers)</string>
+    <string name="r20">5.Small retail investors interests are protected</string>
+    <string name="r21">6.Large investors with huge cash pile should not manipulate the markets</string>
+    <string name="r22">7.An overall development of markets</string>
+    <string name="r23">Given the above objectives, it becomes imperative for SEBI to regulate the following entities. All the entities mentioned below are directly involved in the stock markets. Malpractice by anyone of the following entities can disrupt what is otherwise a harmonious market in India.</string>
+    <string name="r24">SEBI has prescribed a set of rules and regulations to each one of these entities. The entity should operate within the legal framework as prescribed by SEBI. The specific rules applicable to a specific entity are made available by SEBI on their website. They are published under the ‘Legal Framework’ section of their site.</string>
+    <string name="fi1">From the time you access the market – let’s just say, to buy a stock till the time the stocks come and hit your DEMAT account, a bunch of corporate entities is actively involved in making this work for you. These entities play their role quietly behind the scene, always complying with the rules laid out by SEBI and ensure an effortless and smooth experience for your transactions in the stock market. These entities are generally referred to as the Financial Intermediaries.</string>
+    <string name="fi2">Together, these financial intermediaries, interdependent of one another, create an ecosystem in which the financial markets exist. This chapter will help you get an overview of what these financial intermediaries are and the services they offer.</string>
+    <string name="fi3">The stockbroker is probably one of the most important financial intermediaries that you need to know. A stockbroker is a corporate entity, registered as a trading member with the stock exchange and holds a stockbroking license. They operate under the guidelines prescribed by SEBI.</string>
+    <string name="fi4">A stockbroker is your gateway to stock exchanges. To begin with, you need to open something called a ‘Trading Account’ with a broker who meets your requirements. Your requirement could be as simple as the proximity between the broker’s office and your house. At the same time, it can be as complicated as identifying a broker who can provide you a single platform using which you can transact across multiple exchanges across the world. At a later point we will discuss what these requirements could be and how to choose the right broker.</string>
+    <string name="fi5">A trading account lets you carry financial transactions in the market. A trading account is an account with the broker which lets the investor buy/sell securities.</string>
+    <string name="fi6">So assuming you have a trading account – whenever you want to transact in the markets you need to interact with your broker. There are a few standard ways through which you can interact with your broker.</string>
+    <string name="fi7">1.You can go to the broker’s office and meet the dealer in the broker’s office and tell him what you wish to do. A dealer is an executive at the stock broker’s office who carries out these transactions on your behalf.</string>
+    <string name="fi8">2.You can make a telephone call to your broker, identify yourself with your client code (account code) and place an order for your transaction. The dealer at the other end will execute the order for you and confirm the status of the same while you are still on the call.</string>
+    <string name="fi9">3.Do it yourself – this is perhaps the most popular way of transacting in the markets. The broker gives you access to the market through software called ‘Trading Terminal’. After you log in to the trading terminal, you can view live price quotes from the market, and can also place orders yourself.</string>
+    <string name="fi10">The basic services provided by the brokers includes…</string>
+    <string name="fi11">1.Give you access to markets and letting you transact</string>
+    <string name="fi12">2.Give you margins for trading – We will discuss this point at a later stage</string>
+    <string name="fi13">3.Provide support – Dealing support if you have to call and trade. Software support if you have issues with the trading terminal</string>
+    <string name="fi14">4.Issue contract notes for the transactions – A contract note is a written confirmation detailing the transactions you have carried out during the day</string>
+    <string name="fi15">5.Facilitate the fund transfer between your trading and bank account</string>
+    <string name="fi16">6.Provide you with a back office login – using which you can see the summary of your account</string>
+    <string name="fi17">7.The broker charges a fee for the services that he provides called the ‘brokerage charge’ or just brokerage. The brokerage rates vary, and it’s upto you to find a broker who strikes a balance between the fee he collects versus the services he provides.</string>
+    <string name="fi18">When you buy a property the only way to identify and claim that you actually own the property is by producing the property papers. Hence it becomes extremely important to store the property papers in a safe and secure place.</string>
+    <string name="fi19">Likewise when you buy a share (a share represents part ownership in a company) the only way to claim your ownership is by producing your share certificate. A share certificate is nothing but a piece of document entitling you as the owner of the shares in a company.</string>
+    <string name="fi20">Before 1996 the share certificate was in paper format however post 1996, the share certificates were converted to digital form. The process of converting a paper format share certificate into a digital format share certificate is called “Dematerialization” often abbreviated as DEMAT.</string>
+    <string name="fi21">The share certificate in DEMAT format has to be stored digitally. The storage place for the digital share certificate is the ‘DEMAT Account’. A Depository is a financial intermediary which offers the service of the Demat account. A DEMAT account in your name will have all the shares in the electronic format that you have bought. Think of the DEMAT account as a digital vault for your shares.</string>
+    <string name="fi22">As you may have guessed, the trading account from your broker and the DEMAT account from the Depository are interlinked.</string>
+    <string name="fi23">o for example if your idea is to buy Infosys shares then all you need to do is open your trading account, look for the prices of Infosys and buy it. Once the transaction is complete, the role of your trading account is done. After you buy, the shares of Infosys will automatically come and sit in your DEMAT account.</string>
+    <string name="fi24">Likewise when you wish to sell Infosys shares, all you have to do is open your trading account and sell the stock. This takes care of the transaction part…however in the backend, the shares which are sitting in your DEMAT account will get debited, and the shares move out of your DEMAT account.</string>
+    <string name="fi25">At present, there are only two depositaries offering you DEMAT account services. They are The National Securities Depository Limited (NSDL) and Central Depository Services (India) Limited. There is virtually no difference between the two and both of them operate under strict SEBI regulations.</string>
+    <string name="fi26">Just like the way you cannot walk into National Stock Exchange’s office to open a trading account, you cannot walk into a Depository to open a DEMAT account. To open a DEMAT account you need to liaison with a Depository Participant (DP). A DP helps you set up your DEMAT account with a Depository. A DP acts as an agent to the Depository. Needless to say, even the DP is governed by the regulations laid out by the SEBI.</string>
+    <string name="fi27">Banks play a very straightforward role in the market ecosystem. They help in facilitating the fund transfer from your bank account to your trading account. You cannot transfer money from a bank account that is not in your name.</string>
+    <string name="fi28">Also, at this stage, you must have realized that the three financial intermediaries operate via three different accounts – trading account, DEMAT account and Bank account. All the three accounts operate electronically and are interlinked giving you a very seamless experience.</string>
+    <string name="fi29">NSCCL – National Security Clearing Corporation Ltd and Indian Clearing Corporation are wholly owned subsidiaries of National Stock Exchange and Bombay Stock Exchange respectively.</string>
+    <string name="fi30">The job of the clearing corporation is to ensure guaranteed settlement of your trades/transactions. For example, if you were to buy 1 share of Biocon at Rs.446 per share there must be someone who has sold that 1 share to you at Rs.446 . For this transaction, you will be debited Rs.446 from your trading account and someone must be credited that Rs.446 toward the sale of Biocon. In a typical transaction like this the clearing corporation’s role is to ensure the following:</string>
+    <string name="fi31">For all practical purposes, its ok not to know much about NSCCL or ICCL simply because, you as a trader or investor would not be interacting with these agencies directly. You just need to be aware that there are certain professional institutions which are heavily regulated and they work towards smooth settlement, and efficient clearing activity.</string>
+    <string name="fi32">a) Identify the buyer and seller and match the debit and credit process</string>
+    <string name="fi33">b) Ensure no defaults – The clearing corporation also ensures there are no defaults by either party. For instance the seller after selling the shares should not be in a position to back out thereby defaulting in his transaction.</string>
+    <string name="ip1">The initial three chapters have set the background on some of the basic market concepts that you need to know. At this stage it becomes imperative to address a very basic question – Why do companies go public?</string>
+    <string name="ip2">A good understanding of this topic lays down a sound foundation for all future topics. We will learn new financial concepts during the course of this chapter.</string>
+    <string name="ip3">Before we jump ahead to seek an answer as to why companies go public, let us spend some time figuring out a more basic concept – the origins of a typical business. To understand this concept better, we will build a tangible story around it. Let us split this story into several scenes just so that we get a clear understanding of how the business and the funding environment evolves.</string>
+    <string name="ip4">Let us imagine a budding entrepreneur with a brilliant business idea – to manufacture highly fashionable, organic cotton t-shirts. The designs are unique, has attractive price points and the best quality cotton is used to make these t-shirts. He is confident that the business will be successful and is all enthusiastic to launch the idea into a business</string>
+    <string name="ip5">As a typical entrepreneur he is likely to be hit by the typical problem – where would he get the money to fund the idea? Assuming the entrepreneur has no business background he will not attract any serious investor at the initial stage. Chances are, he would approach his family and friends to pitch the idea and raise some money. He could approach the bank for a loan as well but this would not be the best option.</string>
+    <string name="ip6">Let us assume that he pools in his own money and also convinces two of his good friends to invest in his business. Because these two friends are investing in the pre-revenue stage and taking a blind bet on the entrepreneur they would be called the Angel investors. Please note, the money from the angels is not a loan, it is actually an investment made by them.</string>
+    <string name="ip7">So let us imagine that the promoter along with the angels raises INR 5 Crore in the capital. This initial money that he gets to kick start his business is called ‘The Seed Fund’. It is important to note that the seed fund will not sit in the entrepreneur’s (also called the promoter) personal bank account but instead sits in the company’s bank account. Once the seed capital hits the company’s bank account, the money will be referred to as the initial share capital of the company.</string>
+    <string name="ip8">In return for the initial seed investment, the original three (promoter plus 2 angels) will be issued share certificates of the company which entitles them ownership in the company.</string>
+    <string name="ip9">The only asset that the company has at this stage is the cash of INR 5 Crs, hence the value of the company is also INR 5 Crs. This is called the company’s valuation.</string>
+    <string name="ip10">Issuing shares is quite simple, the company assumes that each share is worth Rs.10 and because there is Rs.5 crore as share capital, there have to be 50 lakh shares with each share worth Rs.10. In this context, Rs.10 is called the ‘Face value’ (FV) of the share. The face value could be any number. If the FV is Rs.5, then the number of shares would be 1 crore, so on and so forth.</string>
+    <string name="ip11">A total of 50 lakh shares is called the Authorized shares of the company. These shares have to be allotted amongst the promoter and two angels plus the company has to retain some amount of shares with itself to be issued in the future.</string>
+    <string name="ip12">So let us assume the promoter retains 40% of the shares and the two angels get 5% each and the company retains 50% of the shares. Since the promoter and two angels own 50% of the shares, this allotted portion is called Issued shares.</string>
+    <string name="ip13">The shareholding pattern of this company would look something like this:</string>
+    <string name="ip14">Please note the balance of 50% of the shares totaling 2,500,000 equity shares is retained by the company. These shares are authorized but not allotted.</string>
+    <string name="ip15">Now backed by a good company structure and a healthy seed fund the promoter kick starts his business operations. He wants to move cautiously, hence he decides to open just one small manufacturing unit and one store to retail his product.</string>
+
+</resources>
+
+
+
+
+

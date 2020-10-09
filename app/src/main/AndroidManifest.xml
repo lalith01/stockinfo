@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lalith.app">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bbb"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ipoo"></activity>
+        <activity android:name=".ipo" />
+        <activity android:name=".finance" />
+        <activity android:name=".security" />
+        <activity android:name=".invest" />
+        <activity android:name=".expert" />
+        <activity android:name=".intermediate" />
+        <activity android:name=".beginner" />
+        <activity android:name=".about" />
+        <activity
+            android:name=".privacy"
+            android:parentActivityName=".login" />
+        <activity
+            android:name=".dashboard"
+            android:hardwareAccelerated="false"
+            android:largeHeap="true" />
+        <activity android:name=".signup" />
+        <activity android:name=".login" />
+        <activity android:name=".coverpage" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

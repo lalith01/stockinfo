@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".about">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:id="@+id/rl"
+        android:background="@drawable/u">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/img"
+            android:id="@+id/i"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="30dp"></ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="StockInfo"
+            android:layout_below="@+id/i"
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:layout_centerHorizontal="true"></TextView>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hi there, My name is lalith and I am the man behind this app."
+        android:layout_below="@+id/rl"
+        android:padding="10dp"
+        android:id="@+id/tx"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:textSize="25sp"></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="If you have any questions or suggestions, do not hesitate to contact me."
+        android:layout_below="@+id/tx"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:id="@+id/tx1"
+        android:textStyle="bold"
+        android:textSize="25sp"></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="lalith.help@gmail.com"
+        android:layout_centerHorizontal="true"
+        android:textColor="#2248A5"
+        android:layout_below="@+id/tx1"
+        android:id="@+id/tx2"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:textSize="20sp"></TextView>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/tx1"
+        android:text="Back"
+        android:id="@+id/btn"
+        android:textAllCaps="false"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/custom_button"
+        android:layout_margin="50dp"
+        android:shadowColor="#2248A5"></Button>
+</RelativeLayout>
